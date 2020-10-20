@@ -1,6 +1,6 @@
 class TweetsController < ApplicationController
 
-  
+
 
 
 end
